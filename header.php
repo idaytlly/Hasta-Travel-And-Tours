@@ -23,7 +23,7 @@
       padding: 10px 0;
     }
     .hero {
-      background: url('images/car-hero.jpg') center/cover no-repeat;
+      background: url('car-hero.jpg') center/cover no-repeat;
       height: 400px;
       color: white;
       display: flex;
@@ -39,7 +39,7 @@
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="css/logo.png">  <!--logo-->
+      <img src="logo.png">  <!--logo-->
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
