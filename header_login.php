@@ -36,6 +36,12 @@
       transform: translateY(-10px);
       box-shadow: 0 15px 35px rgba(0,0,0,0.4);
     }
+
+        .navbar {
+      background-color: rgba(0, 123, 255, 0.85) !important;
+      backdrop-filter: blur(5px);
+    }
+
   </style>
 
 </head>
