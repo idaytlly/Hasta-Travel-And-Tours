@@ -11,27 +11,27 @@
         <img src="car1.jpeg" class="card-img-top" alt="Car 1">
         <div class="card-body">
           <h5 class="card-title">Perodua Axia</h5>
-          <p class="card-text">Comfortable and reliable sedan.</p>
+          <p class="card-text">Hatchback</p>
           <a href="#" class="btn btn-primary">Book Now</a>
         </div>
       </div>
     </div>
     <div class="col">
       <div class="card">
-        <img src="images/car2.jpg" class="card-img-top" alt="Car 2">
+        <img src="car2.jpg" class="card-img-top" alt="Car 2">
         <div class="card-body">
-          <h5 class="card-title">Honda Civic</h5>
-          <p class="card-text">Stylish and fuel-efficient.</p>
+          <h5 class="card-title">Perodua Bezza</h5>
+          <p class="card-text">Sedan</p>
           <a href="#" class="btn btn-primary">Book Now</a>
         </div>
       </div>
     </div>
     <div class="col">
       <div class="card">
-        <img src="images/car3.jpg" class="card-img-top" alt="Car 3">
+        <img src="car3.jpg" class="card-img-top" alt="Car 3">
         <div class="card-body">
-          <h5 class="card-title">Ford Explorer</h5>
-          <p class="card-text">Spacious SUV for family trips.</p>
+          <h5 class="card-title">Perodua Myvi</h5>
+          <p class="card-text">Hatchback</p>
           <a href="#" class="btn btn-primary">Book Now</a>
         </div>
       </div>
