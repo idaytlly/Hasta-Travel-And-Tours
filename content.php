@@ -8,9 +8,9 @@
   <div class="row row-cols-1 row-cols-md-3 g-4">
     <div class="col">
       <div class="card">
-        <img src="images/car1.jpg" class="card-img-top" alt="Car 1">
+        <img src="car1.jpeg" class="card-img-top" alt="Car 1">
         <div class="card-body">
-          <h5 class="card-title">Toyota Camry</h5>
+          <h5 class="card-title">Perodua Axia</h5>
           <p class="card-text">Comfortable and reliable sedan.</p>
           <a href="#" class="btn btn-primary">Book Now</a>
         </div>
