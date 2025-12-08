@@ -38,6 +38,12 @@
       transform: translateY(-10px);
       box-shadow: 0 15px 35px rgba(0,0,0,0.4);
     }
+
+    .navbar-logo {
+      max-height: 60px; 
+      width: auto;     
+    }
+
   </style>
 
 </head>
@@ -46,7 +52,9 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">Hasta Travel & Tours</a>
+    <a class="navbar-brand" href="#">
+      <img src="logo.png" class="navbar-logo">  <!--logo-->
+    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarLogin" aria-controls="navbarLogin" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
