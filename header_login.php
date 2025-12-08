@@ -60,26 +60,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarLogin">
       <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Home
-            <span class="visually-hidden">(current)</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Dashboard</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Vehicle Listing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Book Vehicle</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">History</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Settings</a>
-        </li>
+        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Dashboard</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Vehicle Listing</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Book Vehicle</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">History</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Settings</a></li>
       </ul>
     </div>
   </div>
