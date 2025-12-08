@@ -33,7 +33,7 @@
     }
 
   .navbar-logo {
-      max-height: 40px; 
+      max-height: 60px; 
       width: auto;     
     }
 
