@@ -31,18 +31,17 @@
     <input type="email" class="form-control" id="email" name="femail" placeholder="Enter your email" required>
   </div>
 
-  <div class="mb-3">
-    <label for="password" class="form-label">Password</label>
-    <input type="password" class="form-control" id="password" name="fpwd" placeholder="Create a password" required>
-  </div>
-
-  <button type="submit" class="btn btn-light w-100 fw-bold">Register</button>
-
-  <p class="text-center mt-3 text-white">
-    Already have an account? <a href="login.php" class="text-warning">Login here</a>
-  </p>
-
-</form>
+    <div class="mb-3">
+        <label for="password" class="form-label mt-4">Enter Password Again</label>
+        <input type="password" class="form-control" id="password" name="fpwd" placeholder="Enter your password" autocomplete="off" required>
+      </div>
+      </fieldset>
+    <div>
+      <button type="screate" class="btn btn-primary">Create Account</button>
+      <button type="reset" class="btn btn-secondary">Clear Input</button>
+    </div>
+  </form>
+</div>
 
 <?php
   include 'footer.php';
