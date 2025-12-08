@@ -72,7 +72,6 @@
             <a class="dropdown-item" href="#">Register</a>
             <a class="dropdown-item" href="#">Login</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Separated link</a>
           </div>
         </li>
       </ul>
