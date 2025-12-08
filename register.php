@@ -60,6 +60,8 @@
     <div>
       <button type="screate" class="btn btn-primary">Create Account</button>
       <button type="reset" class="btn btn-secondary">Clear Input</button>
+      <br><br>
+      <br>
     </div>
   </form>
 </div>
