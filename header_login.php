@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hasta Travel & Tours</title>
+  <title>Hasta Travel & Tours - Login</title>
   
   <!-- Lux Bootswatch CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/lux/bootstrap.min.css" rel="stylesheet">
   
   <!-- Bootstrap JS Bundle -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
   <style>
     /* Full page background */
     body {
-      background-image: url('car-hero.jpg'); /* Change to your image path */
+      background-image: url('car-hero.jpg'); /* Make sure the path is correct */
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -22,6 +23,7 @@
       flex-direction: column;
     }
 
+    /* Floating login card */
     .login-card {
       margin-top: 10vh;
       background-color: rgba(255, 255, 255, 0.85); /* semi-transparent */
@@ -58,28 +60,16 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarLogin">
       <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-       <a class="nav-link active" href="#">Home
-            <span class="visually-hidden">(current)</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="index.php">Dashboard</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="index.php">Vehicle Listing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Book Vehicle</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">History</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Settings</a>
-        </li>
-
+        <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Dashboard</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Vehicle Listing</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Book Vehicle</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">History</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Settings</a></li>
       </ul>
     </div>
   </div>
 </nav>
+
+</body>
+</html>
