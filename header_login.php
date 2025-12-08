@@ -22,11 +22,17 @@
       flex-direction: column;
     }
 
-      .login-card:hover {
+    .login-card {
       margin-top: 10vh;
-      background-color: rgba(255, 255, 255, 0.9); /* semi-transparent */
-      border-radius: 10px;
-      padding: 30px;
+      background-color: rgba(255, 255, 255, 0.85); /* semi-transparent */
+      border-radius: 15px;
+      padding: 40px 30px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      backdrop-filter: blur(8px);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .login-card:hover {
       transform: translateY(-10px);
       box-shadow: 0 15px 35px rgba(0,0,0,0.4);
     }
