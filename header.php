@@ -31,6 +31,12 @@
       justify-content: center;
       text-shadow: 2px 2px 6px black;
     }
+
+  .navbar-logo {
+      max-height: 40px; 
+      width: auto;     
+    }
+
   </style>
 </head>
 <body>
@@ -39,7 +45,7 @@
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="logo.png">  <!--logo-->
+      <img src="logo.png" class="navbar-logo">  <!--logo-->
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
