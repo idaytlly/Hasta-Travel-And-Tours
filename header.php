@@ -27,16 +27,41 @@
       height: 400px;
       color: white;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       text-shadow: 2px 2px 6px black;
+      position: relative;
+      overflow: hidden;
     }
 
   .navbar-logo {
       max-height: 60px; 
       width: auto;     
     }
-
+  .hero h1 {
+    color: #fdfdfdff; 
+    position: relative;
+    overflow: hidden;
+  }
+    .hero h4 {
+    font-size: 1.1rem;
+    color: #fdfdfdff; 
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+        content: ""; 
+        background: url('car-hero.jpg') center/cover no-repeat; 
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0; 
+        filter: blur(5px); 
+        transform: scale(1.05);
+    }
   </style>
 </head>
 <body>
@@ -93,4 +118,6 @@
 <!-- Hero Section -->
 <div class="hero">
   <h1>Drive Your Dream Car Today!</h1>
+  <p><h4 class="fs-6 text-center">We believe your rental car should enhance your trip, not just be a part of it. Our fleet delivers a premium driving experience that combines style, comfort, and reliability. </h4>
+
 </div>
