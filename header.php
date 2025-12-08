@@ -58,14 +58,21 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="#">Dashboard</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="#">Vehicle Listing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#">Book Vehicle</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">History</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Settings</a>
+        </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
           <div class="dropdown-menu">
