@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hasta Travel & Tours</title>
+  <title>Hasta Travel & Tours - Login</title>
   
   <!-- Lux Bootswatch CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/lux/bootstrap.min.css" rel="stylesheet">
@@ -11,6 +11,24 @@
   <!-- Bootstrap JS Bundle -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+  <style>
+    /* Full page background using car-hero.jpg */
+    body {
+      background-image: url('images/car-hero.jpg'); /* path to your image */
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+    }
+
+    /* Center the login card */
+    .login-card {
+      margin-top: 10vh;
+      background-color: rgba(255, 255, 255, 0.9); /* semi-transparent */
+      border-radius: 10px;
+      padding: 30px;
+    }
+  </style>
 </head>
 <body>
 
