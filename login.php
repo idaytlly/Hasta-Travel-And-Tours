@@ -8,8 +8,8 @@
       <h3 class="text-center mb-4">Login</h3>
       <form method="post" action="loginprocess.php">
         <div class="mb-3">
-          <label for="userID" class="form-label">User ID</label>
-          <input type="text" class="form-control" id="userID" name="fid" placeholder="Enter your User ID" required>
+          <label for="userID" class="form-label">Email</label>
+          <input type="text" class="form-control" id="userID" name="fid" placeholder="Enter your Email" required>
         </div>
         <div class="mb-3">
           <label for="password" class="form-label">Password</label>
