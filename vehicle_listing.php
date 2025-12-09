@@ -1,7 +1,4 @@
-<?php
-// content.php
-//include 'header_content.php';
-?>
+<?php include 'header.php'; ?>
 
 <!-- Available Cars Section -->
 <div class="container mt-5">
@@ -110,3 +107,5 @@
         
     </div>
 </div>
+
+<?php include 'footer.php'; ?>

@@ -74,7 +74,7 @@
           <a class="nav-link" href="#">Dashboard</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="content.php">Vehicle Listing</a>
+          <a class="nav-link" href="vehicle_listing.php">Vehicle Listing</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Book Vehicle</a>
