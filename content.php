@@ -1,6 +1,6 @@
 <?php
 // content.php
-  
+<?php include 'header_content.php'; ?>
 ?>
 
 <!-- Available Cars Section -->
