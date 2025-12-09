@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header_content.php'; ?>
 
 <!-- Available Cars Section -->
 <div class="container mt-5">
