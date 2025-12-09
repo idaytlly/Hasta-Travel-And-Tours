@@ -49,6 +49,7 @@
     color: #fdfdfdff; 
     position: relative;
     overflow: hidden;
+
   }
   .hero::before {
         content: ""; 
@@ -78,7 +79,7 @@
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Home
+          <a class="nav-link active" href="index.php">Home
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
@@ -86,7 +87,7 @@
           <a class="nav-link" href="#">Dashboard</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Vehicle Listing</a>
+          <a class="nav-link" href="content.php">Vehicle Listing</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Book Vehicle</a>
