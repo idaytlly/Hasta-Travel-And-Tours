@@ -4,7 +4,6 @@
 
 <br><br>
 <br>
-<br>
 <h3 class="title-text">Create Your Account</h3>
 <form method="post" action="registerprocess.php">
   <div class="mb-3">
@@ -43,7 +42,7 @@
     </div>
   </form>
 </div>
-<br><br>
+<br>
 <br>
 
 <?php
