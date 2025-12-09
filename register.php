@@ -1,7 +1,9 @@
 <?php
   include 'header_register.php';
 ?>
+
 <br><br>
+<br>
 <br>
 <h3 class="title-text">Create Your Account</h3>
 <form method="post" action="registerprocess.php">
@@ -43,6 +45,7 @@
 </div>
 <br><br>
 <br>
+
 <?php
   include 'footer.php';
 ?>
