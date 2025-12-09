@@ -42,7 +42,8 @@
     </div>
   </form>
 </div>
-
+<br><br>
+<br>
 <?php
   include 'footer.php';
 ?>
