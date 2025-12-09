@@ -5,7 +5,8 @@
 <h3 class="title-text">Create Your Account</h3>
 
 <form method="post" action="registerprocess.php">
-
+  <br><br>
+  <br>
   <div class="mb-3">
     <label for="fullname" class="form-label">Full Name</label>
     <input type="text" class="form-control" id="fullname" name="fname" placeholder="Enter your full name" required>
