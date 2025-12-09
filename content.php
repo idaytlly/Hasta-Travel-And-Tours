@@ -1,4 +1,5 @@
 <?php
+// content.php
   include 'header.php';
 ?>
 
