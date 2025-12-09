@@ -49,6 +49,7 @@
     color: #fdfdfdff; 
     position: relative;
     overflow: hidden;
+
   }
   .hero::before {
         content: ""; 
