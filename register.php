@@ -1,10 +1,9 @@
 <?php
   include 'header_register.php';
 ?>
-
-<h3 class="title-text">Create Your Account</h3>
 <br><br>
 <br>
+<h3 class="title-text">Create Your Account</h3>
 <form method="post" action="registerprocess.php">
   <div class="mb-3">
     <label for="fullname" class="form-label">Full Name</label>
