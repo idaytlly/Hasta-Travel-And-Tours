@@ -13,7 +13,7 @@
 
   <div class="mb-3">
     <label for="ic" class="form-label">National Identification Card</label>
-    <input type="number" class="form-control" id="ic" name="fic" placeholder="Enter your IC" required>
+    <input type="text" class="form-control" id="ic" name="fic" placeholder="Enter your IC" required>
   </div>
 
   <div class="mb-3">
